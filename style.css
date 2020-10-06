@@ -1,1 +1,5 @@
-p { background-color: red; }
+* { color: darkred; }
+
+.paaotsikko { color: blue; }
+li { color: violet; }
+#kirkas { color: red; }
